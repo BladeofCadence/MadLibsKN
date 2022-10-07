@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">MadLibsKN</string>
+
+    <string name="S1">There was a </string>
+    <string name="S2">, they lived in a </string>
+    <string name="S3"> Their name was </string>
+    <string name="S4"> had a problem, they couldn\'t get back to </string>
+    <string name="S5"> and time was running out!  </string>
+    <string name="S6"> had something they needed to deliver to </string>
+    <string name="S7"> before it got </string>
+    <string name="S8"> That was because </string>
+    <string name="S9"> always would come at </string>
+    <string name="S10"> would always </string>
+    <string name="S11"> and somehow get </string>
+    <string name="S12"> It was complicated really, </string>
+    <string name="S13"> never really knew how it happened everytime. It quite made </string>
+    <string name="S14"> quite </string>
+    <string name="S15">, but  </string>
+    <string name="S16"> couldn\'t tell </string>
+    <string name="S17"> that. It wasn\'t </string>
+    <string name="S18"> fault that they always </string>
+
+    <string name="A1"> adjective </string>
+    <string name="A2"> noun </string>
+    <string name="A3"> adjective </string>
+    <string name="A4"> object </string>
+    <string name="A5"> name </string>
+    <string name="A6"> place </string>
+    <string name="A7"> adjective </string>
+    <string name="A8"> name </string>
+    <string name="A9"> time of day </string>
+    <string name="A10"> verb </string>
+    <string name="A11"> object </string>
+    <string name="A12"> adjective </string>
+    <string name="A13"> emotion </string>
+
+
+</resources>
